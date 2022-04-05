@@ -14,3 +14,5 @@ Part of HüMi WiSe 20/21, comparing item consumption before and during COVID.
 ![items_weekday_bar](.assets/items_weekday_bar.png)
 
 ![user_status_pie](.assets/user_status_pie.png)
+
+Test
